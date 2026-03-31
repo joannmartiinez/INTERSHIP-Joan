@@ -6,6 +6,6 @@ Create a Branch:
 git checkout -b Learn-Git-Joan
 
 How to commit?
-notepad README.md
-git add .
-git commit -m "name of commit"
+Step One: notepad README.md
+Step Two: git add .
+Step Three: git commit -m "name of commit"
